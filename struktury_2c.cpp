@@ -208,7 +208,7 @@ void wykonaj(const Graf& graf, int liczba_wierzcholkow, Stos& stos) {
          }
      }
 
-    cout << "--------------------------------------cos,cos,cos\n";
+    cout << "---------------------------------dsssfsfsf-----cos,cos,cos\n";
 }
 
 int main() {
