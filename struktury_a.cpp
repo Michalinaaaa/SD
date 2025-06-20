@@ -73,7 +73,7 @@ void Dijkstra(int** graf, int n, int zrodlo) {
     odleglosci[zrodlo] = 0;
 
     KolejkaPriorytetowa kolejka;
-    kolejka.dodaj(odleglosci[zrodlo], zrodlo);
+    kolejka.dodaj(odleglosci[zrodlo], zrodlo);/* */
 
     while (!kolejka.pusta()) {
         int u = kolejka.topWierzcholek();
