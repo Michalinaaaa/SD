@@ -14,6 +14,7 @@ struct Wezel {
     int odleglosc;
     int wierzcholek;
     Wezel* nastepny;
+    int test;
 };
 
 class KolejkaPriorytetowa {
